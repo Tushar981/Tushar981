@@ -2,8 +2,6 @@
 
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on DSA
 - 🌱 I’m currently learning MERN Stack
 - 💬 Ask me about C,C++,JAVA,Python,DS
