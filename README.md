@@ -25,7 +25,7 @@
 </a>
 <br>
 
-
+<image src="https://media.giphy.com/media/9WC8WTZsFxkRi/giphy.gif" alt="gif" float="right"></image>
 
 **Languages and Tools:**  
 
