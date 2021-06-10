@@ -1,4 +1,4 @@
-### Hi there what I am On 👋
+### Hi there 👋 I am Tushar
 
 <image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" align="right"></image>
 
