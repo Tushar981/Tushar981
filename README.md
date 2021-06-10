@@ -54,7 +54,7 @@
 
 
 📈 My GitHub Stats
+<div>
+<p > <img src="https://github-readme-stats.vercel.app/api?username=Tushar981&show_icons=true&theme=gotham" alt="Tushar Stats" />
 
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Tushar981&show_icons=true&theme=gotham" alt="Tushar Stats" />
-<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar981&theme=buefy&layout=compact" alt="Tushar Stats" />
-
+</div>
