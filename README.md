@@ -3,11 +3,18 @@
 
 
 - 🔭 I’m currently working on DSA
+
 - 🌱 I’m currently learning MERN Stack
+
 - 💬 Ask me about C,C++,JAVA,Python,DS
+
 - 📫 How to reach me: tushargupta981@gmail.com
+
 - 😄 Fun Fact : I 💖🍔🍕🥗
+
 - ⚡ Recently Worked : Twitter Red 
+
+<image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" float="right"></image>
 
 **Connect With Me**
 
@@ -20,12 +27,13 @@
 <a href="https://www.linkedin.com/in/tushargupta981/">
   <img align="left" alt="Tushar Gupta LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Tushar's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 <br>
 
-<image src="https://media.giphy.com/media/9WC8WTZsFxkRi/giphy.gif" alt="gif" float="right"></image>
+
 
 **Languages and Tools:**  
 
