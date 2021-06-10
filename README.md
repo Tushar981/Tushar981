@@ -1,6 +1,6 @@
 ### Hi there what I am On 👋
 
-
+<image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" align="right"></image>
 
 - 🔭 I’m currently working on DSA
 
@@ -14,7 +14,7 @@
 
 - ⚡ Recently Worked : Twitter Red 
 
-<image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" align="right"></image>
+
 
 **Connect With Me**
 
@@ -55,6 +55,6 @@
 
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Tushar981&show_icons=true&theme=gotham" alt="Tushar Stats" />
-
+<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Tushar981&show_icons=true&theme=gotham" alt="Tushar Stats" />
+<p align="right"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar981&theme=buefy&layout=compact" alt="Tushar Stats" />
 
