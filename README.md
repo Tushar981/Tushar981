@@ -14,7 +14,7 @@
 
 - ⚡ Recently Worked : Twitter Red 
 
-<image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" float="right"></image>
+<image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" align="right"></image>
 
 **Connect With Me**
 
