@@ -12,7 +12,7 @@
 
 - 😄 Fun Fact : I 💖🍔🍕🥗
 
-- ⚡ Recently Worked : Multiple Project Processing Part 
+- ⚡ Recently Worked : CPG Project On Processing Part 
 
 
 
