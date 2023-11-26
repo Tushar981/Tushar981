@@ -2,17 +2,17 @@
 
 <image src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="gif" align="right"></image>
 
-- 🔭 I’m currently working on DSA
+- 🔭 I’m currently working as a Data Analyst
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently learning AI , ML , NLP
 
-- 💬 Ask me about C,C++,JAVA,Python,DS
+- 💬 Ask me about C,C++,JAVA,Python,DS , Python , Data Anlaytics,
 
 - 📫 How to reach me: tushargupta981@gmail.com
 
 - 😄 Fun Fact : I 💖🍔🍕🥗
 
-- ⚡ Recently Worked : Twitter Red 
+- ⚡ Recently Worked : Multiple Project Processing Part 
 
 
 
