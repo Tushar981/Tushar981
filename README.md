@@ -69,39 +69,53 @@ Git | VBA | Selenium | Statistical Modeling
 - Business Intelligence Solutions
 
 ### 📫 Let's Connect!
-- **Email**: tushargupta981@gmail.com
+- **Email**: [tushargupta981@gmail.com](mailto:tushargupta981@gmail.com)
 - **Location**: Bengaluru, India
 
 **Connect With Me:**
 
-<a href="https://www.linkedin.com/in/tushargupta981/">
-  <img align="left" alt="Tushar Gupta LinkedIn" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+<p align="left">
+<a href="https://www.linkedin.com/in/tushargupta981/" target="_blank">
+  <img align="center" alt="Tushar Gupta LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://github.com/Tushar981">
-  <img align="left" alt="Tushar's GitHub" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/github.svg" />
+&nbsp;&nbsp;
+<a href="https://github.com/Tushar981" target="_blank">
+  <img align="center" alt="Tushar's GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://twitter.com/tushargupta777">
-  <img align="left" alt="Tushar Gupta Twitter" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+&nbsp;&nbsp;
+<a href="https://twitter.com/tushargupta777" target="_blank">
+  <img align="center" alt="Tushar Gupta Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
-  <img align="left" alt="Tushar's Spotify" width="30px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
+&nbsp;&nbsp;
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g" target="_blank">
+  <img align="center" alt="Tushar's Spotify" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/spotify.svg" />
 </a>
+</p>
 
-<br><br>
+<br>
 
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" alt="R"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/jupyter-notebook/jupyter-notebook.png" alt="Jupyter"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/pandas-dev/pandas/main/web/pandas/static/img/pandas.svg" alt="Pandas"></code>
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" alt="Power BI" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" />
+&nbsp;&nbsp;
+<img height="30" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" />
+&nbsp;&nbsp;
+<img height="30" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" />
 </p>
 
 ### 📈 GitHub Analytics
